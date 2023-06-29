@@ -5175,7 +5175,7 @@
     <comment>Warning message.</comment>
   </data>
   <data name="AboutIsMatch" xml:space="preserve">
-    <value>Determines if the supplied text has a match of the supplied text format.</value>
+    <value>Determines if the supplied text has a match of the supplied text format</value>
     <comment>Description of 'IsMatch' function.</comment>
   </data>
   <data name="AboutIsMatch_text" xml:space="preserve">
